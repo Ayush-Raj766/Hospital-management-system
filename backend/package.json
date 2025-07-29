@@ -1,0 +1,17 @@
+{
+  "name": "hospital_managemet",
+  "version": "1.0.0",
+  "description": "for helping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hospital",
+    "help",
+    "medicine",
+    "emergency"
+  ],
+  "author": "Ayush",
+  "license": "ISC"
+}
